@@ -8,7 +8,7 @@ First you should take the language tour: https://tour.golang.org/Then, you shoul
 \- https://golang.org/doc/code.html to learn how to organize your Go workspace
 \- https://golang.org/doc/effective_go.html be more effective at writing Go
 \- https://golang.org/ref/spec learn more about the language itself
-\- https://golang.org/doc/#articles a lot more reading materialThere are some awesome websites as well:
+\- https://golang.org/doc/#articles a lot more reading material, there are some awesome websites as well:
 \- [https://blog.gopheracademy.com](https://blog.gopheracademy.com/) great resources for Gophers in general
 \- [http://gotime.fm](http://gotime.fm/) awesome weekly podcast of Go awesomeness
 \- [https://gobyexample.com](https://gobyexample.com/) examples of how to do things in Go
@@ -16,7 +16,7 @@ First you should take the language tour: https://tour.golang.org/Then, you shoul
 \- https://dmitri.shuralyov.com/idiomatic-go tips on how to write more idiomatic Go code
 \- https://divan.github.io/posts/avoid_gotchas will help you avoid gotchas in Go
 \- [https://golangbot.com](https://golangbot.com/) tutorials to help you get started in Go
-\- [https://tutorialedge.net](https://tutorialedge.net/) a collection of articles around various aspects of GoThere's also an exhaustive list of videos [http://gophervids.appspot.com](http://gophervids.appspot.com/) related to Go from various authors.If you prefer books, you can try these:
+\- [https://tutorialedge.net](https://tutorialedge.net/) a collection of articles around various aspects of GoThere's also an exhaustive list of videos [http://gophervids.appspot.com](http://gophervids.appspot.com/) related to Go from various authors. If you prefer books, you can try these:
 \- http://www.golangbootcamp.com/book
 \- http://gopl.io/
 \- https://www.manning.com/books/go-in-action (if you e-mail @wkennedy at [bill@ardanlabs.com](mailto:bill@ardanlabs.com) you can get a free copy for being part of this Slack)If you want to learn how to organize your Go project, make sure to read: https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1#.ds38va3pp.
