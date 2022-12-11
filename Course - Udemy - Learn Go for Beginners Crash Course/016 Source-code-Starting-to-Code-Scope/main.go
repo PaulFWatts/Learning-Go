@@ -18,7 +18,6 @@ func main() {
 	packageone.Exported()
 }
 
-
 func myFunc() {
 	fmt.Println(one)
 }
